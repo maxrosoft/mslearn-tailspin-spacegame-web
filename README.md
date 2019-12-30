@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/dimesRx/New%20Try/_apis/build/status/maxrosoft.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/dimesRx/New%20Try/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
